@@ -1,0 +1,9 @@
+[user]
+	name = Sahithi Kota
+	email = sahithiikota@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = nano
+[pull]
+	rebase = true
